@@ -27,7 +27,7 @@ public class Principal {
 			if(arreglo[i] != null)
 				System.out.println("Val: " + arreglo[i].ope(i));
 			else
-				System.out.println("nuloy");
+				System.out.println("nulos");
 		}
 		System.out.println(D.operacion1(0));
 		System.out.println(D.operacion1(1));
